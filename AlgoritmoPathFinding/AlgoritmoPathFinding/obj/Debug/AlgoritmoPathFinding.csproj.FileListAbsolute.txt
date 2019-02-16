@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\bin\Debug\AlgoritmoPathFinding.exe.config
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\bin\Debug\AlgoritmoPathFinding.exe
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\bin\Debug\AlgoritmoPathFinding.pdb
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.Form1.resources
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.exe
+d:\documents\visual studio 2015\Projects\AlgoritmoPathFinding\AlgoritmoPathFinding\obj\Debug\AlgoritmoPathFinding.pdb
